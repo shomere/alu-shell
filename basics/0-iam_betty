@@ -1,2 +1,1 @@
-#!/bin/bash
-echo su betty > 0_iam_betty
+su betty
